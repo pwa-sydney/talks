@@ -7,7 +7,7 @@
 ## Length
 
 
-## Twitter-sized Overview (140 characters)
+## Target Audience
 
 
 ## Detailed Overview
