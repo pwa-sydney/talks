@@ -1,9 +1,12 @@
 <h1 align="center">
 <a href="https://www.meetup.com/Sydney-Progressive-Web-Apps-SydPWA/" target="_blank">
-    <img src="https://github.com/zouhir/talks/blob/master/sydpwa_logo.png?raw=true" alt="SydPWA logo" width="220" />
+    <img src="https://github.com/zouhir/talks/blob/master/media/sydpwa_logo.png?raw=true" alt="SydPWA logo" width="220" />
 </a>
 <br>
+<br>
 SydPWA Meetup
+<br>
+<br>
 <br>
 </h1>
 
