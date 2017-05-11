@@ -7,7 +7,7 @@ SydPWA Meetup
 <br>
 </h1>
 
-# SydPWA meetup talk proposals
+# Talks Proposals
 If you'd like to give a talk we'd love to hear your proposal!
 
 Create [new github issue](https://github.com/SydPWA/talks/issues/new) to sumbit your talk idea. It can be a long 45 min presentation or a 10 minute lightning talk. The limit is only our imagination.
