@@ -11,8 +11,8 @@ SydPWA Meetup
 <h4 align="center">If you'd like to give a talk we'd love to hear your proposal!</h4>
 
 <p align="center">
-    <img src="https://github.com/zouhir/talks/blob/master/media/women_who_code_badge.png?raw=true" alt="Supporting Women Who Code" />
-    <img src="https://github.com/zouhir/talks/blob/master/media/first_time_speaker_badge.png?raw=true" alt="Supporting 1st Time Speakers" />
+    <img src="https://github.com/zouhir/talks/blob/master/media/women_who_code_badge.png?raw=true" alt="Supporting Women Who Code" width="121" />
+    <img src="https://github.com/zouhir/talks/blob/master/media/first_time_speaker_badge.png?raw=true" alt="Supporting 1st Time Speakers" width="174" />
 </p>
 <br>
 
