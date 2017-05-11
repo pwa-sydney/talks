@@ -1,4 +1,11 @@
-<p align="center"><a href="https://www.meetup.com/Sydney-Progressive-Web-Apps-SydPWA/" target="_blank"><img src="https://github.com/zouhir/talks/blob/master/sydpwa_logo.png?raw=true" alt="SydPWA logo" width="250" /></a></p>
+<h1 align="center">
+<a href="https://www.meetup.com/Sydney-Progressive-Web-Apps-SydPWA/" target="_blank">
+    <img src="https://github.com/zouhir/talks/blob/master/sydpwa_logo.png?raw=true" alt="SydPWA logo" width="220" />
+</a>
+<br>
+SydPWA Meetup
+<br>
+</h1>
 
 # SydPWA meetup talk proposals
 If you'd like to give a talk we'd love to hear your proposal!
