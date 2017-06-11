@@ -18,7 +18,7 @@ SydPWA Meetup
 <br>
 
 ### Talks Proposals
-If you're wanting to request or submit a topic for a talk we'd love to hear your proposal! Create a [new github issue](https://github.com/SydPWA/talks/issues/new) to submit your ideas.
+If you're wanting to request or submit a talk idea for **SydPWA** we'd love to hear your proposal! Head for the [Issues page](https://github.com/SydPWA/talks/issues/new).
 
 
 ### Join the SydPWA community  
