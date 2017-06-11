@@ -8,6 +8,7 @@ SydPWA Meetup
 <br>
 </h1>
 
+
 <h4 align="center">If you'd like to give a talk we'd love to hear your proposal!</h4>
 
 <p align="center">
@@ -17,10 +18,13 @@ SydPWA Meetup
 <br>
 
 ### Talks Proposals
+If you're wanting to request or submit a topic for a talk we'd love to hear your proposal! Create a [new github issue](https://github.com/SydPWA/talks/issues/new) to submit your ideas.
 
-Create [new github issue](https://github.com/SydPWA/talks/issues/new) to sumbit your talk idea. It can be a long 45 min presentation or a 10 minute lightning talk. The limit is only our imagination.
 
-_Alternatively_, you can message us directly on [twittrer](https://twitter.com/sydpwa) or [Meetup](https://www.meetup.com/Sydney-Progressive-Web-Apps-SydPWA/)
+### Join the SydPWA community  
+* [Twitter](https://twitter.com/sydpwa)
+* [Meetup](https://www.meetup.com/Sydney-Progressive-Web-Apps-SydPWA/)
+* [Slack](https://now-examples-slackin-lmccajoxrq.now.sh/), please introduce yourself at [`#sydney`](https://pwaworld.slack.com/messages/C5RQ3G6JX) and keep in touch :smile:
 
 
 ### Previous Speakers
